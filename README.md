@@ -14,7 +14,7 @@
    <p align="center">HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas - Projeto do site Barbearia Alura, desenvolvido nas aulas de HTML5 e CSS3 da Alura. </p>
 
  <p align="center"> 
-    <img src="https://i.ibb.co/DfMLV0x/certificado-intro-html-css-3">
+    <img src="https://i.ibb.co/DfMLV0x/certificado-intro-html-css-3.png">
     
    <p align="center">HTML5 e CSS3 parte 4: Avançando no CSS - Projeto do site Barbearia Alura, desenvolvido nas aulas de HTML5 e CSS3 da Alura. </p>
 
